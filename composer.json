@@ -1,0 +1,20 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Adibaba\\ZoteroApiClient" : "src"
+		}
+	},
+	"name" : "adibaba/zotero-api-client",
+	"authors" : [{
+			"name" : "Adrian Wilke",
+			"homepage" : "https://adrianwilke.de"
+		}
+	],
+	"description" : "Zotero API client using cURL",
+	"license" : "MIT",
+	"keywords" : [
+		"zotero",
+		"api",
+		"curl"
+	]
+}
