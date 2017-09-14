@@ -1,7 +1,7 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"Adibaba\\ZoteroApiClient" : "src"
+			"Adibaba\\ZoteroApiClient\\" : "src"
 		}
 	},
 	"name" : "adibaba/zotero-api-client",
